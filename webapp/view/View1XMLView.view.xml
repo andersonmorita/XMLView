@@ -1,0 +1,13 @@
+<mvc:View controllerName="NamespaceXMLView.XMLView.controller.View1XMLView" xmlns:html="http://www.w3.org/1999/xhtml"
+	xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+<!--	<App id="idAppControl">
+		<pages>
+			<Page title="{i18n>title}">
+				<content></content>
+			</Page>
+		</pages>
+	</App>
+   xmlns="sap.m"
+   xmlns:mvc="sap.ui.core.mvc">-->
+   <Text text="Hello World"/>	
+</mvc:View>
